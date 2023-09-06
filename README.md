@@ -2,7 +2,7 @@
 A solution to read data from  LTspice files and then draw waveforms via MATLAB.
 
 
-##Usage
+##  Usage
 1. Design a circuit in LTspice.
 2. Run a simulation.
 3. Export the waveform data into a .txt file.
